@@ -5,7 +5,7 @@ const Hero: FC = () => {
   return (
     <Box
       sx={{
-        background: `linear-gradient(180deg, #FF7E5F 0%, #FEB47B 100%)`
+        background: `linear-gradient(180deg, #6c18f5 0%, #cd61de 100%)`
       }}
     >
       <Container sx={{ display: 'flex' }}>

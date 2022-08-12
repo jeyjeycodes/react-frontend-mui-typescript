@@ -43,10 +43,10 @@ const baseThemeOptions: ThemeOptions = {
   palette: {
     mode: 'light',
     primary: {
-      main: '#5BC0BE'
+      main: '#cd61de'
     },
     secondary: {
-      main: '#FF7E5F'
+      main: '#6c18f5'
     }
   }
 };
